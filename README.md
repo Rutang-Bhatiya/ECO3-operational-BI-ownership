@@ -1,10 +1,8 @@
-# ECO3 – Operational BI Ownership & Reporting Stabilization
-
 ## Purpose of This Repository
 
 This repository documents **Phase 2** of my journey at ECO3, where I moved from understanding the legacy environment to **actively owning, stabilizing, and operating business-critical reporting**.
 
-The focus of this phase was not transformation yet — it was **trust, continuity, and reliability**.
+The focus of this phase was not transformation yet, it was **trust, continuity, and reliability**.
 
 Before any future-state architecture could be built, the business needed:
 - Reports that worked
@@ -19,10 +17,10 @@ All examples are conceptual and use dummy representations to respect confidentia
 
 ## Transition From Analysis to Ownership
 
-After completing the legacy environment analysis (Repo 1), it became clear that:
+After completing the legacy environment analysis (Repo "ECO3-legacy-reporting-environment-analysis"), it became clear that:
 
 - Business users depended on existing reports daily
-- Power BI reports had no clear owners
+- Power BI and Excel reports had no clear owners
 - Failures were frequent and reactive
 - Small issues caused disproportionate business disruption
 
@@ -35,14 +33,14 @@ At this stage, I stepped into **full operational ownership** of reporting.
 I took responsibility for existing, partially broken, or unmaintained Power BI assets.
 
 ### Current Ownership
-- **17 Power BI reports**
+- **XX Power BI and XXX Excel reports**
 - Used by management, operational teams, and decision-makers
 - Supporting finance, sales, pricing, and service reporting
 
 ### Responsibilities
 - End-to-end report maintenance
 - Model stability and performance
-- Monthly refresh cycles
+- Monthly, Weekly or Daily refresh cycles
 - Enhancements based on business feedback
 - Issue triage and resolution
 - Security and access control design
@@ -153,15 +151,12 @@ This repository represents **Phase 2** of the broader analytics journey:
 - **Phase 2:** Operational BI ownership (this repo)
 - **Phase 3:** Data engineering & automation
 - **Phase 4:** BDM 2.0 future architecture
-- **Phase 5:** Business analytics applications
-
+  
 Without this stabilization phase, large-scale transformation would not have been feasible.
 
 ---
 
 ## Suggested Diagrams to Add (Optional – Later)
-
-If visuals are added later, recommended diagrams include:
 
 1. **Power BI Ownership Model**
    - Datasets → Reports → Consumers
