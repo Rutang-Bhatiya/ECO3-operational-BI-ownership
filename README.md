@@ -17,7 +17,7 @@ All examples are conceptual and use dummy representations to respect confidentia
 
 ## Transition From Analysis to Ownership
 
-After completing the legacy environment analysis (Repo "ECO3-legacy-reporting-environment-analysis"), it became clear that:
+After completing the legacy environment analysis (Repo [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"} ), it became clear that:
 
 - Business users depended on existing reports daily
 - Power BI and Excel reports had no clear owners
@@ -147,10 +147,11 @@ This phase created a **stable operational baseline**, making future transformati
 
 This repository represents **Phase 2** of the broader analytics journey:
 
-- **Phase 1:** Legacy environment analysis
-- **Phase 2:** Operational BI ownership (this repo)
-- **Phase 3:** Data engineering & automation
-- **Phase 4:** BDM 2.0 future architecture
+- **Phase 1:** [`ECO3-legacy-reporting-environment-analysis`](https://rutang-bhatiya.github.io/ECO3-legacy-reporting-environment-analysis/){:target="_blank"}
+- **Phase 2:** [`ECO3-operational-BI-ownership (this repo)`](https://rutang-bhatiya.github.io/ECO3-operational-BI-ownership/)
+- **Phase 3:** [`Pricing-Software-Service--Sales-analytics`](https://rutang-bhatiya.github.io/ECO3-Pricing-Software-Service--Sales-analytics/){:target="_blank"}
+- **Phase 4:** [`ECO3-data-engineering-BDM-2-future-architecture`](https://rutang-bhatiya.github.io/ECO3-data-engineering-BDM-2-future-architecture/){:target="_blank"}
+- **Phase 5:** [`ECO3-enterprise-analytics-journey`](https://rutang-bhatiya.github.io/ECO3-enterprise-analytics-journey/){:target="_blank"}
   
 Without this stabilization phase, large-scale transformation would not have been feasible.
 
